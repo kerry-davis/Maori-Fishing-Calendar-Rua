@@ -1,0 +1,5 @@
+{
+  "name": "Maramataka Fishing Calendar",
+  "description": "A Progressive Web App that displays the Māori fishing calendar, providing daily fishing ratings and tide times based on the maramataka (lunar calendar).",
+  "requestFramePermissions": []
+}
